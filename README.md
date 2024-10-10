@@ -9,6 +9,9 @@ A full-stack checkers game application designed for multiplayer gameplay, built 
 - **Capture Mechanics**: Players can jump and capture opponent pieces according to standard rules.
 - **Multiplayer Support**: Two players can connect through separate tabs within the same browser, with real-time synchronization provided by Socket.io.
 
+![image](https://github.com/user-attachments/assets/e9a6f38b-6445-4f0d-82f2-545ecaf28d5f)
+
+
 ## Technologies Used
 
 - **Frontend**: React
